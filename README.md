@@ -25,7 +25,19 @@
 - Cài đặt phần mềm cần thiết cho Pi 
   - Download phần mềm small Rose Clock : $ git clone https://github.com/ThuyPham/small_RoseClock-python_qt4.git 
   - Cài đặt python-qt4 : 
-   - $ sudo apt-get update 
-   - $ sudo apt-get install python-qt4
-    
+      - $ sudo apt-get update 
+      - $ sudo apt-get install python-qt4
+   - Cài đặt thư viện cho cảm biến DHT11 
+      - $ git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+      - $ cd Adafruit_Python_DHT
+      - $ sudo apt-get update
+      - $ sudo apt-get install build-essential python-dev
+      - $ sudo python setup.py install
+    - Cài đặt ẩn biểu tượng con chuột khi không có tác động tới màn hình 
+      - $ sudo apt-get install unclutter 
+    - Tắt chế độ ngủ của màn hình : 
+      - $ sudo apt-get install xscreensaver
+      - Vào Menu (biểu tượng của Pi, góc trái trên cùng của màn hình) > Preferences > Screensaver > trong Display Modes, tại Mode > chọn Disable Screen Saver. 
+      - Close và khởi động lại Pi. 
+
 Các bạn tham khảo tham khảo thêm tại : 
