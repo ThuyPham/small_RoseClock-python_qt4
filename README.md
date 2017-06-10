@@ -74,3 +74,6 @@ primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
     ```
 
 Các bạn tham khảo tham khảo thêm tại : 
+https://hackaday.io/project/6184-piclock-a-raspberry-pi-clock-weather-display
+
+![dsc_0056](https://user-images.githubusercontent.com/8324506/27001932-8051c65e-4dff-11e7-9ced-627dd1e7967b.JPG) 
