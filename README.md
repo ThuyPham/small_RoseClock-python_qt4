@@ -1,6 +1,5 @@
 # small_RoseClock-
-Chiếc đồng hồ thời tiết, người bạn cùng từng ngày năng động... Chiếc đồng hồ giúp bạn biết vị trí của mình trên bản đồ. Người bạn có khả năng dự báo thời tiết giúp bạn chủ động hơn trong các hoạt động và những chuyến đi chơi. Giúp bạn biết nhiệt độ , độ ẩm tại nơi bạn làm việc, sinh sống,... Sản phẩm phát triển từ phần cứng : Raspberry Pi; màn hình LCD 10 inch; cảm biến nhiệt độ, độ ẩm DHT11
-Hướng dẫn cài đặt : 
+Chiếc đồng hồ thời tiết, người bạn cùng từng ngày năng động... Chiếc đồng hồ giúp bạn biết vị trí của mình trên bản đồ. Người bạn có khả năng dự báo thời tiết giúp bạn chủ động hơn trong các hoạt động và những chuyến đi chơi. Giúp bạn biết nhiệt độ , độ ẩm tại nơi bạn làm việc, sinh sống,... Sản phẩm phát triển từ phần cứng : Raspberry Pi; màn hình LCD 10 inch; cảm biến nhiệt độ, độ ẩm DHT11 . Hướng dẫn cài đặt : 
 Bước 1 : Thiết lập cho Pi với hệ điều hành Raspbian 
   + Chọn chế độ Auto login to Desktop : Trong Terminar 
     Các bạn gõ lệnh :
