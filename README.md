@@ -24,7 +24,7 @@
  - DOUT ---  pin số 22 : GPIO25
 - Khởi động lại Pi
 - Cài đặt phần mềm cần thiết cho Pi 
- - Download phần mềm : git clone https://github.com/ThuyPham/small_RoseClock-python_qt4.git 
+ - Download phần mềm small Rose Clock : git clone https://github.com/ThuyPham/small_RoseClock-python_qt4.git 
  - Cài đặt python-qt4 : 
   - sudo apt-get update 
   - sudo apt-get install python-qt4
