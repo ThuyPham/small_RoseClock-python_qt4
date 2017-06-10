@@ -55,7 +55,7 @@
    ![purchasekey](https://user-images.githubusercontent.com/8324506/27001719-fac00d38-4dfa-11e7-8970-68e59634a112.png)
    Các bạn mở thư mục small_RoseClock-python_qt4 đã tải về ở Bước 1, mở file ApiKeys.py và dán API  key của bạn vào dòng lệnh sau : 
     ```
-    # Weather Underground API key'
+    # Weather Underground API key
     wuapi = 'Your API key'
     ```
       
