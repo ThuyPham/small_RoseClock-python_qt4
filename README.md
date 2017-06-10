@@ -3,7 +3,7 @@
 * Chiếc đồng hồ giúp bạn biết vị trí của mình trên bản đồ. 
 * Người bạn có khả năng dự báo thời tiết giúp bạn chủ động hơn trong các hoạt động và những chuyến đi chơi. 
 * Giúp bạn biết nhiệt độ , độ ẩm tại nơi bạn làm việc, sinh sống,... 
-* Sản phẩm phát triển từ phần cứng : Raspberry Pi 3; màn hình LCD 10 inch; cảm biến nhiệt độ, độ ẩm DHT11 . 
+* Sản phẩm phát triển từ phần cứng : [Raspberry Pi 3](http://smart-techvn.com/raspberry-pi-b-raspberry-pi2/raspberry-pi-uk); [màn hình LCD 10 inch](http://smart-techvn.com/raspberry-pi-b-raspberry-pi2/man-hinh-lcd-cho-raspberry-pi/1214404-man-hinh-cam-ung-dien-dung-waveshare-10-1inch-hdmi-lcd-b-with-case-1280%C3%97800-ips.html); [cảm biến nhiệt độ, độ ẩm DHT11](http://smart-techvn.com/module-boards/module-cam-bien/1737124-module-cam-bien-nhiet-do-do-am-dht11.html) . 
 ## Hướng dẫn cài đặt : 
 ### Bước 1 : Thiết lập cho Pi với hệ điều hành Raspbian 
 - Trong Terminar 
@@ -74,6 +74,6 @@ primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
     ```
 
 Các bạn tham khảo tham khảo thêm tại : 
-https://hackaday.io/project/6184-piclock-a-raspberry-pi-clock-weather-display
+[pi-clock-weather](https://hackaday.io/project/6184-piclock-a-raspberry-pi-clock-weather-display)
 
 ![dsc_0056](https://user-images.githubusercontent.com/8324506/27001932-8051c65e-4dff-11e7-9ced-627dd1e7967b.JPG) 
