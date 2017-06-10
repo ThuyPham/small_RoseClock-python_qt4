@@ -43,6 +43,9 @@
 - Đăng ký tài khoản trên server  wunderground để nhận API key
     - Các bạn đăng ký tài khoản theo đường link : https://www.wunderground.com/weather/api . Lựa chọn *Sign Up for FREE*.
     
+![signup for api key](https://user-images.githubusercontent.com/8324506/27001636-5167d780-4df9-11e7-9f3e-acd337d1b1e1.png)
+![step2](https://user-images.githubusercontent.com/8324506/27001644-8f73a5e0-4df9-11e7-9c2f-924bc6401226.png)
+
 - Dò tìm vị trí của bạn và điền tọa độ vào chương trình
 - Thay đổi hình nền cho giao diện.
 
