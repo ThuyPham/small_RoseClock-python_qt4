@@ -1,4 +1,4 @@
-# small Rose Clock
+# đồng hồ Bông Hồng nhỏ
 * Chiếc đồng hồ thời tiết, người bạn cùng từng ngày năng động... 
 * Chiếc đồng hồ giúp bạn biết vị trí của mình trên bản đồ. 
 * Người bạn có khả năng dự báo thời tiết giúp bạn chủ động hơn trong các hoạt động và những chuyến đi chơi. 
