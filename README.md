@@ -41,7 +41,7 @@
       - Close và khởi động lại Pi. 
 ### Bước 2 : Setup một số thông số cho phần mềm small Rose Clock
 - Đăng ký tài khoản trên server  wunderground để nhận API key
-    - Các bạn đăng ký tài khoản theo đường link : https://www.wunderground.com/weather/api . Lựa chọn Sign Up for FREE.
+    - Các bạn đăng ký tài khoản theo đường link : https://www.wunderground.com/weather/api . Lựa chọn *Sign Up for FREE*.
     
 - Dò tìm vị trí của bạn và điền tọa độ vào chương trình
 - Thay đổi hình nền cho giao diện.
