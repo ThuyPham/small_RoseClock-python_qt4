@@ -39,5 +39,11 @@
       - $ sudo apt-get install xscreensaver
       - Vào Menu (biểu tượng của Pi, góc trái trên cùng của màn hình) > Preferences > Screensaver > trong Display Modes, tại Mode > chọn Disable Screen Saver. 
       - Close và khởi động lại Pi. 
+### Bước 2 : Setup một số thông số cho phần mềm small Rose Clock
+- Đăng ký tài khoản trên server  wunderground để nhận API key
+    - Các bạn đăng ký tài khoản theo đường link : https://www.wunderground.com/weather/api . Lựa chọn Sign Up for FREE.
+    
+- Dò tìm vị trí của bạn và điền tọa độ vào chương trình
+- Thay đổi hình nền cho giao diện.
 
 Các bạn tham khảo tham khảo thêm tại : 
