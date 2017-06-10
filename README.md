@@ -51,7 +51,7 @@
 
    Sau khi đăng ký tài khoản thành công, các bạn đăng nhập và truy cập theo đường link dưới đây để đăng ký lấy API key.
    https://www.wunderground.com/weather/api/d/pricing.html  
-   Các bạn kéo xuống vị trí có đăng ký miễn phí : 500 lần truy cập server / ngày và 10 lần truy cập/phút. Nhấn vào Purchase Key và làm theo các yêu cầu của đăng ký, sau khi đăng ký thành công các bạn có thể nhận được API key.
+   Các bạn kéo xuống vị trí có đăng ký miễn phí : 500 lần truy cập server / ngày và 10 lần truy cập/phút. Nhấn vào *Purchase Key* và làm theo các yêu cầu của đăng ký, sau khi đăng ký thành công các bạn có thể nhận được API key.
    ![purchasekey](https://user-images.githubusercontent.com/8324506/27001719-fac00d38-4dfa-11e7-8970-68e59634a112.png)
    Các bạn mở thư mục small_RoseClock-python_qt4 đã tải về ở Bước 1, mở file ApiKeys.py và dán API  key của bạn vào dòng lệnh sau : 
     ```
@@ -72,6 +72,7 @@ primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
     ```
     background = 'images/HoTay02.jpg'
     ```
+### Bước 3 : Chạy chương trình và setup cho phần mềm khởi động cùng Raspbian 
 
 Các bạn tham khảo tham khảo thêm tại : 
 [pi-clock-weather](https://hackaday.io/project/6184-piclock-a-raspberry-pi-clock-weather-display)
