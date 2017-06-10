@@ -68,5 +68,9 @@
 primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
 ```
 - Thay đổi hình nền cho giao diện.
+    - Các bạn copy hình ảnh mà các bạn muốn sử dụng làm hình nền vào thư mục images. Trong file Config.py các bạn tìm tới vị trí background , các bạn điền đường link dẫn tới hình đó.
+    ```
+    background = 'images/HoTay02.jpg'
+    ```
 
 Các bạn tham khảo tham khảo thêm tại : 
