@@ -60,6 +60,13 @@
     ```
       
 - Dò tìm vị trí của bạn và điền tọa độ vào chương trình
+    - Các bạn vào đường link https://www.wunderground.com/weatherstation/overview.asp > đăng ký tài khoản > đăng nhập và nhấn vào My PWS > chọn Add a New PWS.
+    - Các bạn dò tìm vị trí của các bạn, nhìn xuống góc dưới bên trái của bản đồ sẽ chỉ ra vị trí tọa độ của các bạn : 
+    - Các bạn mở file Config.py , tại dòng lệnh có “primary_coordinates = Lat, Lon”, các bạn điền thông số với thứ tự Lat/Lon. 
+    - Ví dụ : Latitude: 31.48999977 ; Longitude: -110.25 
+```
+primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
+```
 - Thay đổi hình nền cho giao diện.
 
 Các bạn tham khảo tham khảo thêm tại : 
