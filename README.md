@@ -3,7 +3,7 @@
 * Chiếc đồng hồ giúp bạn biết vị trí của mình trên bản đồ. 
 * Người bạn có khả năng dự báo thời tiết giúp bạn chủ động hơn trong các hoạt động và những chuyến đi chơi. 
 * Giúp bạn biết nhiệt độ , độ ẩm tại nơi bạn làm việc, sinh sống,... 
-* Sản phẩm phát triển từ phần cứng : Raspberry Pi; màn hình LCD 10 inch; cảm biến nhiệt độ, độ ẩm DHT11 . 
+* Sản phẩm phát triển từ phần cứng : Raspberry Pi 3; màn hình LCD 10 inch; cảm biến nhiệt độ, độ ẩm DHT11 . 
 ## Hướng dẫn cài đặt : 
 ### Bước 1 : Thiết lập cho Pi với hệ điều hành Raspbian 
 - Trong Terminar 
@@ -54,8 +54,8 @@
    Các bạn kéo xuống vị trí có đăng ký miễn phí : 500 lần truy cập server / ngày và 10 lần truy cập/phút. Nhấn vào Purchase Key và làm theo các yêu cầu của đăng ký, sau khi đăng ký thành công các bạn có thể nhận được API key.
    ![purchasekey](https://user-images.githubusercontent.com/8324506/27001719-fac00d38-4dfa-11e7-8970-68e59634a112.png)
    Các bạn mở thư mục small_RoseClock-python_qt4 đã tải về ở Bước 1, mở file ApiKeys.py và dán API  key của bạn vào dòng lệnh sau : 
-    - '# Weather Underground API key'
-    - wuapi = 'Your API key'
+    ```# Weather Underground API key'
+    wuapi = 'Your API key'```
       
 - Dò tìm vị trí của bạn và điền tọa độ vào chương trình
 - Thay đổi hình nền cho giao diện.
