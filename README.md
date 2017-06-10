@@ -9,9 +9,9 @@
 - Trong Terminar 
   - Các bạn gõ lệnh : $ sudo raspi-config
   - Lựa chọn mở rộng vùng thẻ nhớ cho hệ điều hành :
-   - 7.) Advanced Options > A1. Expand Filesystem > OK
+   7.) Advanced Options > A1. Expand Filesystem > OK
   - Chọn chế độ boot cho hệ điều hành :
-   - 3.) Boot Options > B1. Desktop / CLI  > B4. Desktop Autologin
+   3.) Boot Options > B1. Desktop / CLI  > B4. Desktop Autologin
 - Chọn lại Timezone : Trên biểu tượng Pi ở góc trên cùng bên trái màn hình, các bạn click chọn và tìm tới Preference > Raspberry  Pi Configuration  > Localisation > Timezone  : 
   - Area : Asia
   - Location : Ho_Chi_Minh
