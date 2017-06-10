@@ -43,13 +43,20 @@
 - Đăng ký tài khoản trên server  wunderground để nhận API key
     - Các bạn đăng ký tài khoản theo đường link : https://www.wunderground.com/weather/api . Lựa chọn *Sign Up for FREE*.
     
-![signup for api key](https://user-images.githubusercontent.com/8324506/27001636-5167d780-4df9-11e7-9f3e-acd337d1b1e1.png)
+   ![signup for api key](https://user-images.githubusercontent.com/8324506/27001636-5167d780-4df9-11e7-9f3e-acd337d1b1e1.png)
 
    Các bạn điền thông tin và lựa chọn *Sign Up*
     
-![step2](https://user-images.githubusercontent.com/8324506/27001644-8f73a5e0-4df9-11e7-9c2f-924bc6401226.png)
+   ![step2](https://user-images.githubusercontent.com/8324506/27001644-8f73a5e0-4df9-11e7-9c2f-924bc6401226.png)
 
-
+   Sau khi đăng ký tài khoản thành công, các bạn đăng nhập và truy cập theo đường link dưới đây để đăng ký lấy API key.
+   https://www.wunderground.com/weather/api/d/pricing.html  
+   Các bạn kéo xuống vị trí có đăng ký miễn phí : 500 lần truy cập server / ngày và 10 lần truy cập/phút. Nhấn vào Purchase Key và làm theo các yêu cầu của đăng ký, sau khi đăng ký thành công các bạn có thể nhận được API key.
+   ![purchasekey](https://user-images.githubusercontent.com/8324506/27001719-fac00d38-4dfa-11e7-8970-68e59634a112.png)
+   Các bạn mở thư mục small_RoseClock-python_qt4 đã tải về ở Bước 1, mở file ApiKeys.py và dán API  key của bạn vào dòng lệnh sau : 
+    - '# Weather Underground API key'
+    - wuapi = 'Your API key'
+      
 - Dò tìm vị trí của bạn và điền tọa độ vào chương trình
 - Thay đổi hình nền cho giao diện.
 
