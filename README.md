@@ -7,8 +7,8 @@
 ## Hướng dẫn cài đặt : 
 ### Bước 1 : Thiết lập cho Pi với hệ điều hành Raspbian 
 - Chọn chế độ Auto login to Desktop : Trong Terminar 
-	Các bạn gõ lệnh :
-			$ sudo raspi-config
+ - Các bạn gõ lệnh :
+  $ sudo raspi-config
  - Lựa chọn mở rộng vùng thẻ nhớ cho hệ điều hành :
   - 7. Advanced Options > A1. Expand Filesystem > OK
  - Chọn chế độ boot cho hệ điều hành :
