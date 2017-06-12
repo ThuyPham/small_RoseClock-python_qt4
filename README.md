@@ -72,11 +72,10 @@ primary_coordinates = 31.48999977, -110.25 # Change to your Lat/Lon
     ```
     background = 'images/HoTay02.jpg'
     ```
-### Bước 3 : Chạy chương trình và setup cho phần mềm khởi động cùng Raspbian 
+### Bước 3 : Chạy chương trình  
 - Sau khi setup các thông số cho phần mềm, để chạy phần mềm các bạn thực hiện tiếp các câu lệnh sau trong terminar : 
     - $ cd small_RoseClock-python_qt4/
     - $ python weather.py 
-- Để setup cho phần mềm khởi động cùng Raspbian
 
 Các bạn tham khảo tham khảo thêm tại : 
 [pi-clock-weather](https://hackaday.io/project/6184-piclock-a-raspberry-pi-clock-weather-display)
